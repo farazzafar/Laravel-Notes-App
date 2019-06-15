@@ -1,4 +1,4 @@
-Laravel based Simple Notes App
+# Laravel based Simple Notes App
 
 Create, View, Update and Delete Notes!
 
